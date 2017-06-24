@@ -2,11 +2,14 @@
 ---------------------------------------------------------------
 一、简介
 -----------------
-	gulp是前端开发过程中对代码进行构建的工具，是自动化项目的构建利器；它是基于Node.js的自动任务运行器。本示例就对它的安装和使用和大家一起学习。
+	gulp是前端开发过程中对代码进行构建的工具，是自动化项目的构建利器；它是基于Node.js的自动任务运行器。
+	本示例就对它的安装和使用和大家一起学习。
 
 二、安装
 -----------------
-	1.因为gulp是基于node.js的，所以在安装gulp之前，先安装nodejs；打开node的官网，下载适合自己机型的文件，然后像安装QQ一样，N个下一步（路径建议放在C盘）。通过window+r 输入cmd回车，然后输入node-v查看node的版本信息，如果出现版本信息，说明安装成功
+	1.因为gulp是基于node.js的，所以在安装gulp之前，先安装nodejs；打开node的官网，下载适合自己机型的文件，
+	然后像安装QQ一样，N个下一步（路径建议放在C盘）。通过window+r 输入cmd回车，然后输入node-v查看node的版本信息，
+	如果出现版本信息，说明安装成功
 
 三、npm的介绍
 -----------------
@@ -28,7 +31,8 @@
 
 	2.在实际工作中，我们会经常使用淘宝镜像来用npm来代替cnpm
 
-	3.安装：命令提示符执行npm install cnpm -g --registry=https://registry.npm.taobao.org；注意：安装完后最好查看其版本号cnpm -v；cnpm跟npm用法完全一致，只是在执行命令时将npm改为cnpm
+	3.安装：命令提示符执行npm install cnpm -g --registry=https://registry.npm.taobao.org；
+	注意：安装完后最好查看其版本号cnpm -v；cnpm跟npm用法完全一致，只是在执行命令时将npm改为cnpm
 
 五、gulp的安装
 --------------------
@@ -36,7 +40,8 @@
 
 	2.安装命令：cnpm install gulp -g
 
-	3.局部安装：找到D盘，新建一个gulp文件夹，然后通过dos命令，找到当前文件，输入命令：cnpm init  会自动创建一个package.json文件，然后显示如图下：
+	3.局部安装：找到D盘，新建一个gulp文件夹，然后通过dos命令，找到当前文件，输入命令：cnpm init  
+	会自动创建一个package.json文件，然后显示如图下：
 	![Image text](http://github.com/fupan1018/gulp/master/src/img/gulp01.png)
 
 	4.为了能正常使用，在本地安装gulp：cnpm install gulp --save-dev；
