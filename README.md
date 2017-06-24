@@ -43,7 +43,7 @@
 	3.局部安装：找到D盘，新建一个gulp文件夹，然后通过dos命令，找到当前文件，输入命令：cnpm init  
 	会自动创建一个package.json文件，然后显示如图下：
 	
-	![image](https://github.com/fupan1018/gulp/blob/master/src/img/gulp05.png)
+	
 	<img src="https://github.com/fupan1018/gulp/blob/master/src/img/gulp05.png"/>
 
 	4.为了能正常使用，在本地安装gulp：cnpm install gulp --save-dev；
