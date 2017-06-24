@@ -42,7 +42,7 @@
 
 	3.局部安装：找到D盘，新建一个gulp文件夹，然后通过dos命令，找到当前文件，输入命令：cnpm init  
 	会自动创建一个package.json文件，然后显示如图下：
-	![Image text](https://github.com/fupan1018/gulp/blob/master/src/img/gulp05.png)
+	![image](https://github.com/fupan1018/gulp/raw/master/src/img/gulp05.png)
 
 	4.为了能正常使用，在本地安装gulp：cnpm install gulp --save-dev；
 
@@ -53,7 +53,7 @@
 	1.说明：gulpfile.js是gulp项目的配置文件，是位于项目根目录的普通js文件
 
 	2.新建一个生产文件和一个输出文件(文件结构如下图)
-	http://github.com/fupan1018/gulp/src/img/gulp01.png
+	https://github.com/fupan1018/gulp/blob/master/src/img/gulp01.png
 
 	3.安装的所有插件，都会在这儿进行配置
 
