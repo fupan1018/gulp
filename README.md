@@ -44,6 +44,7 @@
 	会自动创建一个package.json文件，然后显示如图下：
 	
 	![image](https://github.com/fupan1018/gulp/blob/master/src/img/gulp05.png)
+	<img src="https://github.com/fupan1018/gulp/blob/master/src/img/gulp05.png"/>
 
 	4.为了能正常使用，在本地安装gulp：cnpm install gulp --save-dev；
 
