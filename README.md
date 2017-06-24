@@ -54,20 +54,20 @@
 	1.说明：gulpfile.js是gulp项目的配置文件，是位于项目根目录的普通js文件
 
 	2.新建一个生产文件和一个输出文件(文件结构如下图)
-	https://github.com/fupan1018/gulp/blob/master/src/img/gulp01.png
+<img src="https://github.com/fupan1018/gulp/blob/master/src/img/gulp01.png"/>
 
 	3.安装的所有插件，都会在这儿进行配置
 
 	4.部分配置如下图(更加详细的见文件gulpfile.js)
 
 	引入插件
-	http://github.com/fupan1018/gulp/src/img/gulp02.png
+<img src="https://github.com/fupan1018/gulp/blob/master/src/img/gulp02.png"/>
 
 	配置插件
-	http://github.com/fupan1018/gulp/src/img/gulp03.png
+<img src="https://github.com/fupan1018/gulp/blob/master/src/img/gulp03.png"/>
 
 	运行gulp
-	http://github.com/fupan1018/gulp/src/img/gulp04.png
+<img src="https://github.com/fupan1018/gulp/blob/master/src/img/gulp04.png"/>
 
 七、运行gulp
 -----------------------------
